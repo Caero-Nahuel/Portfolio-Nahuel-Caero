@@ -61,17 +61,17 @@ const About = () => {
             {/* Imagen */}
             <div className="relative bg-light-green rounded-lg h-64 md:h-80 lg:h-96 overflow-hidden">
               <img 
-                src="/caero-nahuel-foto.png" 
+                src="./caero-nahuel-foto.png" 
                 alt="Nahuel Caero" 
                 className="block md:hidden w-full h-full object-cover object-[center_25%]"
               />
               <img 
-                src="/caero-nahuel-escritorio.jpg" 
+                src="./caero-nahuel-escritorio.jpg" 
                 alt="Nahuel Caero" 
                 className="hidden md:block lg:hidden w-full h-full object-cover object-[center_35%]" 
               />
               <img 
-                src="/caero-nahuel-escritorio.jpg" 
+                src="./caero-nahuel-escritorio.jpg" 
                 alt="Nahuel Caero" 
                 className="hidden lg:block w-full h-full object-cover object-[center_40%]" 
               />
