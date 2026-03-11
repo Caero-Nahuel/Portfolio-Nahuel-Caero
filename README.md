@@ -5,10 +5,10 @@
   <a href="https://caero-nahuel.github.io/Portfolio-Nahuel-Caero/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Ver sitio-0a66c2?style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="mailto:nahuel.caero@email.com">
+  <a href="mailto:caero.nahuel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/nahuel-caero" target="_blank">
+  <a href="https://www.linkedin.com/in/nahuel-agustin-caero/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Nahuel_Caero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
