@@ -55,6 +55,28 @@ Me formé de manera autodidacta y estructurada a través de **Platzi**, completa
 
 ---
 
+## 🚀 Proyectos destacados
+
+### 📊 Segmentación de Clientes RFM — E-Commerce Olist
+[![Ver repositorio](https://img.shields.io/badge/GitHub-Ver_proyecto-181717?style=flat-square&logo=github)](https://github.com/Caero-Nahuel/Proyecto-analisis-de-cohortes-ecommerce)
+![En proceso](https://img.shields.io/badge/Estado-En_proceso-yellow?style=flat-square)
+
+Transformación de +100k órdenes transaccionales en una estrategia de segmentación accionable usando la metodología **RFM (Recencia, Frecuencia, Monetización)**. El análisis reveló que el 96% de los usuarios realizó una sola compra, y que el segmento Gold —menos del 1% de la base— concentra una porción desproporcionada de los ingresos.
+
+`Python` `Pandas` `Matplotlib` `Seaborn` `Pipeline ETL modular`
+
+---
+
+### 📉 Análisis de CHURN — Telecom Industry
+[![Ver repositorio](https://img.shields.io/badge/GitHub-Ver_proyecto-181717?style=flat-square&logo=github)](https://github.com/Caero-Nahuel/Analisis-de-CHURN-de-Clientes-Telecom-Industry)
+![En proceso](https://img.shields.io/badge/Estado-En_proceso-yellow?style=flat-square)
+
+EDA sobre 7.043 clientes de una empresa de telecomunicaciones para identificar patrones de abandono del servicio. Una tasa de churn del 26.5% representa ~$120k/mes en ingresos en riesgo. Proyecto con conexión directa a mi experiencia como Analista GTR en un entorno de call center.
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
+
+---
+
 ## 🎓 Formación
 
 | Institución | Curso / Ruta | Estado |
