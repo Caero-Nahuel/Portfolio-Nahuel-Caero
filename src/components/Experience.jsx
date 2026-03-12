@@ -3,19 +3,27 @@ import AnimatedSection from './AnimatedSection';
 const experiences = [
   {
     id: 1,
-    date: '2024 - Present',
-    company: 'Freelance Data Analyst',
-    role: 'Data Analyst',
-    description: 'Working with clients to analyze datasets and create actionable insights through visualizations and reports.',
-    technologies: ['Python', 'Pandas', 'Excel', 'Tableau'],
+    date: '2023 - Presene',
+    company: 'Mera Solutions',
+    role: 'Analista GTR',
+    description: 'Me especializo en la redacción de informes periódicos con Microsoft Excel, que proporcionan una visión clara y oportuna para la toma de decisiones estratégicas. Comunicación fluida y proactiva a través de correos electrónicos, asegurando que las necesidades del cliente se aborden en tiempo real. Mi objetivo es garantizar que cada informe contribuya al éxito y satisfacción del cliente, alineándome con sus expectativas y metas empresariales',
+    technologies: ['Python', 'Pandas', 'Excel', 'Avaya', 'SQL'],
   },
   {
     id: 2,
-    date: '2023 - 2024',
-    company: 'Data Analysis Course',
-    role: 'Student',
-    description: 'Intensive data analysis bootcamp focusing on Python, SQL, and data visualization tools.',
-    technologies: ['Python', 'SQL', 'Matplotlib', 'Seaborn'],
+    date: '2024 - Presente',
+    company: 'Curso de Análisis de Datos - Platzi',
+    role: 'Estudiante',
+    description: 'Curso asincronico de analisis de datos haciendo foco en Python, SQL y herramientas de visualización de datos.',
+    technologies: ['Python', 'SQL', 'Matplotlib', 'Seaborn', 'Jupyter'],
+  },
+  {
+    id: 3,
+    date: '2020 - 2022',
+    company: 'Curso de Programación Frontend - Coder House',
+    role: 'Estudiante',
+    description: 'Curso sincronico de Frentend que hizo foco en la creacion de paginas web "mobile-first" con el uso de ReactJS, SASS y tailwind.',
+    technologies: ['Javascript', 'ReactJS', 'SASS', 'Tailwind', 'CSS'],
   },
 ];
 
