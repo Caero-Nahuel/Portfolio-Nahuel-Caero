@@ -20,7 +20,7 @@ const projects = [
   {
     id: 3,
     title: 'Automatización de Reporte de ventas',
-    description: 'Esta automatizacion genera un reporte de ventas que es enviado al sector de  operaciones de la empresa para que puedan tomar deciciones estratégicas de acuerdo a los datos de los asesores.',
+    description: 'Esta automatizacion genera un reporte de ventas que es enviado al sector de  operaciones de la empresa para que puedan tomar deciciones estratégicas de acuerdo a los datos de los asesores. \n Repositorio privado',
     technologies: ['Python', 'Pandas', 'Numpy', 'Excel'],
     image: 'sales',
     github: 'https://github.com/Caero-Nahuel/financial-reports',
